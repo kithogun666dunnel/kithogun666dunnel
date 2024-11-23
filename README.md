@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Pankaj Kumar!
 
-<!--
-**kithogun666dunnel/kithogun666dunnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer | React Enthusiast | Node.js Lover**
 
-Here are some ideas to get you started:
+I build full-stack applications with a focus on clean code and responsive design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** JavaScript, Python, Java
+- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS
+- **Tools & Platforms:** Git, MongoDB, Docker, AWS
+
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kithogun666dunnel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kithogun666dunnel&layout=compact&theme=radical)
+
+---
+
+## 📬 Let's Connect!
+- 🦋 [Bluesky](https://bsky.app/profile/devpankaj.bsky.social)
+
+---
+
+> *"Building great things with passion and purpose!"* 🚀
